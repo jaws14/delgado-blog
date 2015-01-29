@@ -13,9 +13,12 @@
         $query = $connection->query("CREATE DATABASE $database");
         
         if($query) {
-           echo "successfully created database" 
+           echo "successfully created database" . $database ;
+        
         }
     }
-    
+    else {
+       echo "Data base has already"
+    }
     
     $connection->close();
