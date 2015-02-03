@@ -5,9 +5,13 @@
         <group>
             <file>file:/C:/xampp/htdocs/delgado-blog/index.php</file>
             <file>file:/C:/xampp/htdocs/delgado-blog/view/header.php</file>
+            <file>file:/C:/xampp/htdocs/delgado-blog/view/navigation.php</file>
             <file>file:/C:/xampp/htdocs/delgado-blog/view/footer.php</file>
             <file>file:/C:/xampp/htdocs/delgado-blog/model/database.php</file>
+            <file>file:/C:/xampp/htdocs/delgado-blog/post.php</file>
             <file>file:/C:/xampp/htdocs/delgado-blog/controller/create-db.php</file>
+            <file>file:/C:/xampp/htdocs/delgado-blog/view/form.php</file>
+            <file>file:/C:/xampp/htdocs/delgado-blog/model/config.php</file>
         </group>
     </open-files>
 </project-private>
