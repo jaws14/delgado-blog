@@ -8,6 +8,7 @@ class Database {
     private $password;
     private $database;
     public  $error;
+    
     public function __construct($host, $username, $password, $database) {
         $this->host = $host;
         $this->username = $username;
@@ -59,7 +60,7 @@ class Database {
 
         $this->closeconnection();
 
-
+       return $query;
     }
 
 }

@@ -15,6 +15,6 @@
     </div>
     
     <div>
-        <button type="submit">submit/button>
+        <button type="submit">submit</button>
     </div>
     </form>
