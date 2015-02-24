@@ -9,9 +9,7 @@ and open the template in the editor.
     <head>
         <meta charset="UTF-8">
       <link type="text/css" rel="stylesheet" href="css/css.css">
-        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-  <span aria-hidden="true">&times;</span>
-</button>
         <title></title>
     </head>
     <body>
+         
