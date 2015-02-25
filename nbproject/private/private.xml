@@ -3,11 +3,18 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/xampp/htdocs/delgado-blog/index.php</file>
+            <file>file:/C:/xampp/htdocs/delgado-blog/view/header.php</file>
             <file>file:/C:/xampp/htdocs/delgado-blog/view/navigation.php</file>
-            <file>file:/C:/xampp/htdocs/delgado-blog/css/css.css</file>
+            <file>file:/C:/xampp/htdocs/delgado-blog/controller/create-post.php</file>
+            <file>file:/C:/xampp/htdocs/delgado-blog/controller/login-user.php</file>
+            <file>file:/C:/xampp/htdocs/delgado-blog/model/Database.php</file>
+            <file>file:/C:/xampp/htdocs/delgado-blog/post.php</file>
+            <file>file:/C:/xampp/htdocs/delgado-blog/controller/create-user.php</file>
             <file>file:/C:/xampp/htdocs/delgado-blog/controller/login-varify.php</file>
+            <file>file:/C:/xampp/htdocs/delgado-blog/controller/create-db.php</file>
             <file>file:/C:/xampp/htdocs/delgado-blog/view/form.php</file>
+            <file>file:/C:/xampp/htdocs/delgado-blog/controller/logout-user.php</file>
+            <file>file:/C:/xampp/htdocs/delgado-blog/model/config.php</file>
         </group>
     </open-files>
 </project-private>
