@@ -22,9 +22,8 @@ $query = $_SESSION["connection"]->query("CREATE TABLE users ("
         . "salt char(128) NOT NULL,"
         . "PRIMARY KEY (id))");
 
-if($query) {
+if ($query) {
     echo "<p>successfully created table: users</p>";
-}
-else {
+} else {
     echo "<p>" . $_SESSION["connection"]->error . "</p>";
 }
